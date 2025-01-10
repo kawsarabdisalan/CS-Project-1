@@ -1,5 +1,5 @@
 # PLP-1
-
+Hi! This is my project on teaching myself and learning C++. There will be tutorials from how to install C++ on your device to building a full program. 
 # History
 C++ is a object oriented programming language. It was developed in 1979 by the scientist named Bjarne Stroustop at Bell Telephone Labs (Nokia Bell Labs). His initial thoughts to inventing this was to create a flexible language similar to C but more advance. <br>
 C++ is used in many different fields including system software, game development, and application devlopment
